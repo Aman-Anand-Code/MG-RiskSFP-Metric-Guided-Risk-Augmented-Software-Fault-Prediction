@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Data files
+data/PROMISE-backup/
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large output files
+*.pkl
+*.joblib
