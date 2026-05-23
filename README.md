@@ -1,5 +1,3 @@
-# MG-RiskSFP-Metric-Guided-Risk-Augmented-Software-Fault-Prediction
-A lightweight and explainable software fault prediction framework using metric-guided risk indicators, SMOTE/BLSMOTE, and machine learning classifiers on PROMISE datasets.
 # MG-RiskSFP: Metric-Guided Risk-Augmented Software Fault Prediction
 
 MG-RiskSFP is a lightweight and explainable software fault prediction framework. The project predicts fault-prone software modules by combining traditional software metrics with metric-guided structural risk indicators. The framework is evaluated on publicly available PROMISE software defect prediction datasets using imbalance-aware learning and machine learning classifiers.
